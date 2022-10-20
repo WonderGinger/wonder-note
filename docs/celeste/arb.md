@@ -8,23 +8,15 @@
 * [[7a.arb|Summit]]
 * [[8a.arb|Core]]
 
-:::{class="flex gap-4 px-4 justify-left content-center items-center"}
-
 ![](https://cdn.betterttv.net/emote/5f402fe68abf185d76c7617a/2x)
-:::
 
-:::{class="flex gap-x-4 justify-left items-end"}
-#### examine
-
-![](https://cdn.frankerfacez.com/emoticon/464328/1)
-:::
+#### examine ![](https://cdn.frankerfacez.com/emoticon/464328/1)
 
 todo: re-record 2a start
 
 todo: update 5a-a-15 (skip bubble)
 
 todo: shift splits down by 1 (name of split is 1st room)
-
 
 * [[2a-d0.arb|2a d0 berry - Upright demo?]]
 

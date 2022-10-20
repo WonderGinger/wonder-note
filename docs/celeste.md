@@ -1,11 +1,8 @@
-:::{class="flex gap-4 p-4 justify-center content-center items-center"}
 
 ![](https://cdn.betterttv.net/emote/5f402fe68abf185d76c7617a/2x)
 
-## [[arb|arb notes]] ·
+## [[arb|arb notes]] ·  [[any|any% notes]]
 
-## [[any|any% notes]]
-:::
 
 #### update log
 * 2022-10-10: update:                       shrine,                     [[4a-b-01.alt1.arb.mp4|old]] -> [[4a-b-01.arb]] (1.0)

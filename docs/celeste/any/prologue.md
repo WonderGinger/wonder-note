@@ -12,4 +12,4 @@
 ![](https://img.berry.camp/celeste/previews/prologue/a/3.png)
 
 
-#any% #chapter #prologue
+#any #chapter #prologue

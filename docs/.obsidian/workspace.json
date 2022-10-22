@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "celeste/arb/2a.arb/start/2a-d0.arb.md",
+                "file": "celeste/arb/2a.arb/start/2a-d2.arb.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ":::",
+                "query": "4a-c-05",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "celeste/arb/2a.arb/start/2a-d0.arb.md",
+                "file": "celeste/arb/2a.arb/start/2a-d2.arb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "celeste/arb/2a.arb/start/2a-d0.arb.md",
+                "file": "celeste/arb/2a.arb/start/2a-d2.arb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,15 +154,15 @@
   },
   "active": "cdcffb394ebbfd60",
   "lastOpenFiles": [
-    "celeste/arb/2a.arb/start/2a-0.arb.md",
-    "celeste/arb/8a.arb/hot_and_cold/8a-c-00b.arb.md",
-    "celeste/arb/8a.arb/hot_and_cold/8a-c-01.arb.md",
-    "celeste/arb/8a.arb/hot_and_cold/8a-c-02.arb.md",
-    "celeste/arb/8a.arb/hot_and_cold/8a-c-03.arb.md",
-    "celeste/arb/8a.arb/heart_of_the_mountain/8a-d-06.arb.md",
-    "celeste/arb/2a.arb/start/2a-1.arb.md",
-    "celeste/arb/2a.arb/start/2a-3x.arb.md",
+    "celeste/arb/2a.arb/start/2a-d1.arb.md",
+    "celeste/arb/1a.arb.md",
+    "celeste/arb/2a.arb.md",
+    "celeste/arb/2a.arb/start/2a-d8.arb.md",
+    "celeste/arb/2a.arb/start/2a-d7.arb.md",
+    "celeste/arb/2a.arb/start/2a-d3.arb.md",
     "celeste/arb/2a.arb/start/2a-d0.arb.md",
-    "celeste/arb/2a.arb/start/2a-d1.arb.md"
+    "celeste/any.md",
+    "celeste.md",
+    "celeste/arb/2a.arb/start/2a-0.arb.md"
   ]
 }

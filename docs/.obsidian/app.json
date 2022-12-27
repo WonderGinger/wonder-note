@@ -1,4 +1,10 @@
 {
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "celeste/any/7a/500m/clips",
+  "vimMode": true,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": false
 }

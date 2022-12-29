@@ -7,12 +7,18 @@
 ---
 ## update log
 ---
+#### 2022-12-27 update: resort
+- start: under strat
+	- [[3a-05-a.alt1.any%.mp4|old]] -> [[3a-05-a]] (0.6)
+- start: jasig room movement: 
+	- [[3a-05-c.alt1.arb.mp4|old]] -> [[3a-05-c.arb]] (0.5)
+
 #### 2022-12-26 update: ridge
 - add [[4a-a-09.cue1.arb.png|cue]]: [[4a-a-09.arb|last room of start]]
 - shrine: tiyo setup for double berry room
 	- [[4a-b-01.alt1.arb.mp4|old]] -> [[4a-b-01.arb]] (easier)
 - start: archie room ending
-	- [[4a-a-07.alt1.arb.mp4|old]] -> [[4a-a-07.arb]] (0.2)
+	- [[4a-a-07.alt1.arb.mp4|old]] -> [[4a-a-07.arb]] (0.5)
  
 #### 2022-12-06 update: ridge
 - [[4a-b-00.4.alt1.arb.mp4|old]] -> [[4a-b-00.arb]] hub 4 movement (0.2)

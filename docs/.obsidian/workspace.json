@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3994c973d091cbec",
+        "id": "10fc24b6fac27de8",
         "type": "tabs",
         "children": [
           {
-            "id": "66bbc0598c75fa40",
+            "id": "67790ea4c89afc18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "celeste/arb/4a.arb/cliff_face/4a-d-05.arb.md",
+                "file": "celeste/arb/3a.arb/huge_mess/3a-08-x.arb.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "celeste/arb.md",
+                "file": "celeste/arb/3a.arb/huge_mess/3a-08-x.arb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "celeste/arb.md",
+                "file": "celeste/arb/3a.arb/huge_mess/3a-08-x.arb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,26 +190,26 @@
           }
         ],
         "direction": "vertical",
-        "x": 1138,
-        "y": 120,
+        "x": 142,
+        "y": 560,
         "width": 1032,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "89c9147e02feac2e",
+  "active": "67790ea4c89afc18",
   "lastOpenFiles": [
-    "celeste/arb/4a.arb/cliff_face/4a-d-05.arb.md",
-    "celeste/arb/4a.arb/old_trail/4a-c-00.arb.md",
-    "celeste/arb/4a.arb/old_trail/4a-c-01.arb.md",
-    "celeste/arb/4a.arb/shrine/4a-b-03.arb.md",
     "celeste/arb.md",
-    "celeste/arb/4a.arb/shrine/4a-b-02.arb.md",
-    "celeste/arb/4a.arb/shrine/4a-b-01.arb.md",
-    "celeste/arb/4a.arb/cliff_face/4a-d-03.arb.md",
-    "celeste/arb/4a.arb/shrine/4a-b-sec.arb.md",
-    "celeste/arb/4a.arb/shrine/4a-b-secb.arb.md"
+    "celeste.md",
+    "celeste/arb/3a.arb/huge_mess/3a-08-x.arb.md",
+    "celeste/arb/3a.arb/huge_mess/3a-08-a.arb.md",
+    "celeste/arb/4a.arb/start/4a-a-07.arb.md",
+    "celeste/arb/3a.arb/huge_mess/3a-10-y.arb.md",
+    "celeste/arb/3a.arb/start/3a-05-c.arb.md",
+    "celeste/arb/3a.arb/clips/3a-05-c.alt1.arb.mp4",
+    "celeste/any/3a/start/3a-05-a.md",
+    "celeste/arb/4a.arb/cliff_face/4a-d-05.arb.md"
   ]
 }

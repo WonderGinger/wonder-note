@@ -12,27 +12,21 @@
 
 #### todo ![](https://cdn.frankerfacez.com/emoticon/464328/1)
 
-* record yujene corner glide setup 5a unraveling
-	* non neutral wallkick
-	* buffered upright
-	* delayed jump?
+ - make all-in-one page for each cp/chapter
  
 - record 7a c-08 arb
+- record 7a-b-02e arb
 - record flag 4 double demo
 	- 4f max height jump, 4f right dash, buffer downleft on spring, 7f upright
 
 resort
-- gultra setup for 3a wallboost berry
-- look into 3a start demo
-- bubs shaft 2 berry room .5-.6
-- bubs last shaft room no cb strat
-- 3a start exit buffered demo strat (0.5)
-	- https://clips.twitch.tv/CogentAlertPanNerfBlueBlaster-VwXMUDTgTMFKoQeX
+- https://discord.com/channels/@me/1015380183395598417/1069865158593232956
  
-* shift splits by 1
-* re-record 2a start
-* [[2a-d0.arb|2a d0 berry - Upright demo?]]
-* record 5a-a-02
+- shift splits by 1
+- fix fullgame splits
+ 
+- re-record 2a start
+	- 2a-d2.1
 
 #### warmup
 

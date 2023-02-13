@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "10fc24b6fac27de8",
+        "id": "d699f77ff9b54df7",
         "type": "tabs",
         "children": [
           {
-            "id": "67790ea4c89afc18",
+            "id": "4e05fda0aa8ff2a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "celeste/arb/3a.arb/huge_mess/3a-08-x.arb.md",
+                "file": "celeste/arb/2a.arb/start/2a-d2.arb.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f2aebe1d50dbd2cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "celeste/arb/1a.arb/start/1a-5.arb.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "celeste/arb/3a.arb/huge_mess/3a-08-x.arb.md",
+                "file": "celeste/arb/2a.arb/start/2a-d2.arb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "celeste/arb/3a.arb/huge_mess/3a-08-x.arb.md",
+                "file": "celeste/arb/2a.arb/start/2a-d2.arb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +150,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes": false
+      "publish:Publish changes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "floating": {
@@ -180,36 +192,37 @@
                   "type": "markdown",
                   "state": {
                     "file": "celeste.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   },
                   "pinned": true
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 142,
-        "y": 560,
-        "width": 1032,
-        "height": 800,
-        "maximize": false,
+        "x": 448,
+        "y": 172,
+        "width": 1248,
+        "height": 801,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "67790ea4c89afc18",
+  "active": "4e05fda0aa8ff2a2",
   "lastOpenFiles": [
-    "celeste/arb.md",
     "celeste.md",
-    "celeste/arb/3a.arb/huge_mess/3a-08-x.arb.md",
-    "celeste/arb/3a.arb/huge_mess/3a-08-a.arb.md",
-    "celeste/arb/4a.arb/start/4a-a-07.arb.md",
-    "celeste/arb/3a.arb/huge_mess/3a-10-y.arb.md",
-    "celeste/arb/3a.arb/start/3a-05-c.arb.md",
-    "celeste/arb/3a.arb/clips/3a-05-c.alt1.arb.mp4",
-    "celeste/any/3a/start/3a-05-a.md",
-    "celeste/arb/4a.arb/cliff_face/4a-d-05.arb.md"
+    "celeste/arb/2a.arb/start/2a-d2.arb.md",
+    "celeste/any/1a/chasm/1a-12a.md",
+    "celeste/arb/1a.arb/start/1a-5.arb.md",
+    "celeste/arb/1a.arb/start/1a-4.arb.md",
+    "celeste/arb/1a.arb/chasm/1a-12a.arb.md",
+    "celeste/arb/1a.arb/chasm/1a-12z.arb.md",
+    "celeste/arb/1a.arb/chasm/1a-12.arb.md",
+    "celeste/arb/1a.arb/chasm/1a-11.arb.md",
+    "celeste/arb/1a.arb/chasm/1a-10zb.arb.md"
   ]
 }

@@ -1,5 +1,3 @@
-
-
 ![[6a-cassette-04e.arb.mp4]]
 - entry: down-left at the peak of the super
 
@@ -13,6 +11,4 @@
 * pause during dash freeze frames, as close to the breakable block as possible
 * 1f jump pause buffered
 * cue: down-left dash when you cross the first overhang, up-right dash when you are on top of the crystal
-
 #arb #6a-cassette #6a-cassette-04e
-

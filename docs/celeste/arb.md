@@ -13,21 +13,9 @@
 #### todo ![](https://cdn.frankerfacez.com/emoticon/464328/1)
 
  - make all-in-one page for each cp/chapter
- 
-- record 7a c-08 arb
-- record 7a-b-02e arb
-- record flag 4 double demo
-	- 4f max height jump, 4f right dash, buffer downleft on spring, 7f upright
 
-resort
-- https://discord.com/channels/@me/1015380183395598417/1069865158593232956
  
-- shift splits by 1
-- fix fullgame splits
  
-- re-record 2a start
-	- 2a-d2.1
-
 #### warmup
 
 - [warm up](https://www.youtube.com/watch?v=degYaAE0Ehs)
@@ -52,3 +40,6 @@ resort
 	- [[7a-d-03.arb]] + [[7a-d-04.arb|demo]]
 	- [[7a-d-07.arb|turbo demo]]
 	- [[7a-f-01.arb|2.5k berry #1]]
+
+#### links
+[ruyubs arb strat dump](https://discord.com/channels/403698615446536203/617809769322774533/1075815850264776745)

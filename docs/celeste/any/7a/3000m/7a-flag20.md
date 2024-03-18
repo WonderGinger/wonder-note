@@ -1,6 +1,7 @@
-
-
 ![[7a-flag20.any%.mp4]]
+
+#### alternate
+![[7a-flag20.alt1.any%.mp4]]
 
 * careful not to buffer the spike jump too early
 

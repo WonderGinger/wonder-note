@@ -11,7 +11,7 @@
 #### warmup
 * [Zkad route](any/1a/crossing/1a-6b.md)
 * [3a demo -> suite](any/3a/elevator_shaft/3a-04-d.md)
-* [Last room of suite](any/3a/presidential_suite/3a-roof06.md)
+* [Last room of suite](3a-roof06.md)
 * [[4a-b-08]]
 * [[4a-c-09]]
 * cliff face [[4a-d-04]], [[4a-d-05]]
